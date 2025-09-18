@@ -1,0 +1,73 @@
+body {
+  font-family: "PT Sans", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* * {
+  width: 85%;
+}
+hr {
+  margin: auto 20% auto 20%;
+}
+p {
+  font-size: 11px;
+  line-height: 23px;
+  margin: auto 20% 52px 20%;
+}
+.abzats {
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 23px;
+  margin: auto 20% 52px 20%;
+}
+b {
+  font-weight: bold;
+}
+ol,
+ul {
+  font-size: 11px;
+  line-height: 23px;
+  margin: auto 20% auto 20%;
+}
+.ol,
+.ul {
+  margin: 0 0 0 30px;
+}
+body {
+  background-color: FFF;
+}
+img {
+  margin: 90px 16% 90px 16%;
+  width: 1020px;
+  height: auto;
+}
+h1 {
+  font-size: 21px;
+  font-weight: bold;
+  margin: auto 20% 36px 20%;
+}
+.first {
+  color: rgba(0, 0, 0, 0.4);
+  font-size: 12px;
+  line-height: 20px;
+  margin: auto 20% 90px 20%;
+}
+h3 {
+  font-size: 17px;
+  font-weight: bold;
+  margin: 52px 20% 28px 20%;
+  line-height: 19px;
+}
+h4 {
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 19px;
+  margin: auto 20% 28px 20%;
+}
+blockquote {
+  font-style: italic;
+  font-size: 11px;
+  line-height: 23px;
+  margin: 52px 20% 52px 23%;
+} */
